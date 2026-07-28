@@ -1,4 +1,4 @@
-Class Solution:
+class Solution:
 	def max_profit(self, prices: List[int]) -> int:
 		min_price = float("inf")
 		max_price = 0

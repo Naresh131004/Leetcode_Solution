@@ -1,4 +1,4 @@
-Class Solution:
+class Solution:
 	def TwoSum(self,nums:List[int],target:int)->List[int]:
 		seen = {}
 		

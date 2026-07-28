@@ -1,4 +1,4 @@
-Class Solution:
+class Solution:
 	def ContainsDuplicate(self, nums: List[int]) -> bool:
 		seen = set()
 		

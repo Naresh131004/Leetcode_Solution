@@ -14,8 +14,8 @@ This repository serves as my ultimate technical interview preparation handbook, 
 The code is structured logically by topic for seamless navigation:
 ```text
 ├── 01_Arrays/
-│   ├── 1_TwoSum.txt
-│   └── 217_Contains_Duplicate.txt
+│   ├── 1_TwoSum.py
+│   └── 217_Contains_Duplicate.py
 ├── 02_Binary_Bit_Manipulation/
 ├── 03_Dynamic_programming/
 └── ...
@@ -35,7 +35,7 @@ The code is structured logically by topic for seamless navigation:
    ```
 2. Navigate to any topic directory and run the script:
    ```bash
-   python3 01_Arrays/1_TwoSum.txt
+   python3 01_Arrays/1_TwoSum.py
    ```
 
 ## ⭐ Contributing & Feedback

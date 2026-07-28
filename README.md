@@ -25,12 +25,12 @@ The code is structured logically by topic for seamless navigation:
 
 ## 📊 Progress Tracker
 
-| Topic | Problem | Time Complexity | Space Complexity | Solution Link |
-| :--- | :--- | :---: | :---: | :---: |
-| **Arrays** | Two Sum | $O(N)$ | $O(N)$ | [Code](01_Arrays/1_TwoSum.py) |
-| **Arrays** | Best Time to Buy and Sell Stocck | $O(N)$ | $O(1)$ | [Code](01_Arrays/121_Best_Time_to_Buy_and_Sell_Stock.py) |
-| **Arrays** | Contains Duplictae | $O(N)$ | $O(N)$ | [Code](01_Arrays/217_Contains_Duplicate.py) |
-| **Arrays** | Product of Array Except Self | $O(N)$ | $O(1)$ | [Code](01_Arrays/238_Product_of_Array_except_self.py) |
+| Topic | Leetcode Number | Problem | Time Complexity | Space Complexity | Solution Link |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Arrays** | 1 | Two Sum | $O(N)$ | $O(N)$ | [Code](01_Arrays/1_TwoSum.py) |
+| **Arrays** | 121 | Best Time to Buy and Sell Stocck | $O(N)$ | $O(1)$ | [Code](01_Arrays/121_Best_Time_to_Buy_and_Sell_Stock.py) |
+| **Arrays** | 217 | Contains Duplictae | $O(N)$ | $O(N)$ | [Code](01_Arrays/217_Contains_Duplicate.py) |
+| **Arrays** | 238 | Product of Array Except Self | $O(N)$ | $O(1)$ | [Code](01_Arrays/238_Product_of_Array_except_self.py) |
 
 ## 🚀 How to Use This Repo
 1. Clone the repository:

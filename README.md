@@ -15,7 +15,9 @@ The code is structured logically by topic for seamless navigation:
 ```text
 ├── 01_Arrays/
 │   ├── 1_TwoSum.py
-│   └── 217_Contains_Duplicate.py
+│   ├── 121_Best_Time_to_Buy_and_Sell_Stock.py
+│   ├── 217_Contains_Duplicate.py
+│   └── 238_Product_of_Array_except_self.py
 ├── 02_Binary_Bit_Manipulation/
 ├── 03_Dynamic_programming/
 └── ...
@@ -25,8 +27,10 @@ The code is structured logically by topic for seamless navigation:
 
 | Topic | Problem | Time Complexity | Space Complexity | Solution Link |
 | :--- | :--- | :---: | :---: | :---: |
-| **Arrays** | Two Sum | $O(N)$ | $O(N)$ | [Code](./01_Arrays/1_TwoSum.txt) |
-
+| **Arrays** | Two Sum | $O(N)$ | $O(N)$ | [Code](01_Arrays/1_TwoSum.py) |
+| **Arrays** | Best Time to Buy and Sell Stocck | $O(N)$ | $O(1)$ | [Code](01_Arrays/121_Best_Time_to_Buy_and_Sell_Stock.py) |
+| **Arrays** | Contains Duplictae | $O(N)$ | $O(N)$ | [Code](01_Arrays/217_Contains_Duplicate.py) |
+| **Arrays** | Product of Array Except Self | $O(N)$ | $O(1)$ | [Code](01_Arrays/238_Product_of_Array_except_self.py) |
 
 ## 🚀 How to Use This Repo
 1. Clone the repository:

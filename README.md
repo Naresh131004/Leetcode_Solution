@@ -25,7 +25,7 @@ The code is structured logically by topic for seamless navigation:
 
 ## 📊 Progress Tracker
 
-| Topic | Leetcode Number | Problem | Time Complexity | Space Complexity | Solution Link |
+| Topic | Number | Problem | Time Complexity | Space Complexity | Solution Link |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **Arrays** | 1 | Two Sum | $O(N)$ | $O(N)$ | [Code](01_Arrays/1_TwoSum.py) |
 | **Arrays** | 121 | Best Time to Buy and Sell Stocck | $O(N)$ | $O(1)$ | [Code](01_Arrays/121_Best_Time_to_Buy_and_Sell_Stock.py) |
